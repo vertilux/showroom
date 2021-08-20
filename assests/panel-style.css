@@ -1,0 +1,145 @@
+@font-face {
+  font-family: "Din";
+  src: url("DIN-regular.otf");
+}
+
+body{
+  background-color: #000000;
+  padding: 0px;
+  margin: 0px;
+}
+
+#gradient
+{
+ width: 100%;
+ height: auto;
+ position: absolute;
+ padding: 0px;
+ margin: 0px;
+}
+
+.wrap{
+  width: 100%;
+  height: auto;
+}
+
+.panel{
+  border-color: white;
+  border-style: solid;
+  margin: 10%;
+  padding: 5%;
+  height: 1600px;
+}
+
+.title{
+  text-align:center;
+  color: white;
+  font-family: "Din", Arial, Helvetica, sans-serif;
+}
+
+.title h1{
+  font-size: 54px;
+  margin-top: 10%;
+}
+
+.title h3{
+  font-size: 34px;
+}
+
+.frame-1{
+  border-color: white;
+  border-style: solid;
+  height: 100%;
+}
+
+.frame-2{
+  border-color: white;
+  border-style: solid;
+  height: 50%;
+}
+
+.frame-3{
+  border-color: white;
+  border-style: solid;
+  height: 33%;
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+tr{
+  border: none;
+}
+
+td.shade-property{
+  text-align: right;
+  text-transform: uppercase;
+  padding-right: 2.5%;
+  padding-left: 4%;
+  width: 30%;
+}
+
+td.shade-value{
+  text-align: left;
+  padding-left: 2.5%;
+  border-left: 3px solid;
+}
+
+
+table.shade tr td{
+  color: white;
+  font-family: "Din",Arial, Helvetica, sans-serif;
+  font-size: 26px;
+}
+
+.frame-1 p.shade-title{
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin-top: 70%;
+}
+
+
+.frame-2 p.shade-title{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 43%;
+}
+
+.frame-3 p.shade-title{
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin-top: 15%;
+}
+
+.PageNavigation {
+  color: white;
+  font-size: 25px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+  margin-top: 5%;
+}
+
+.PageNavigation a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}

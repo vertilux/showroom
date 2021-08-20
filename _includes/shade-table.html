@@ -1,0 +1,41 @@
+{% assign shades = site.data.showroom-for-website | where: "module-id", page.module-id %}
+      {% for shade in shades %}
+      <div class="frame-{{shades.size}}">
+            <p class="shade-title">{{ shade.name }}</p>
+            <table class="shade">
+                <tr>
+                <td class="shade-property">FABRIC</td><td class="shade-value">{{ shade.fabric }}</td>
+                </tr>
+                <tr>
+                <td class="shade-property">SYSTEM</td><td class="shade-value">{{ shade.system }}</td>
+                </tr>
+                <tr>
+                <td class="shade-property">Headrail</td><td class="shade-value">{{ shade.headrail }}</td>
+                </tr>
+                {% if shade.tube != "no-tube" %}
+                <tr>
+                <td class="shade-property">Tube</td><td class="shade-value">{{ shade.tube }}</td>
+                </tr>
+                {% endif %}
+                {% if shade.bottomrail != "no-bottomrail" %}
+                <tr>
+                <td class="shade-property">Bottomrail</td><td class="shade-value">{{ shade.bottomrail }}</td>
+                </tr>
+                {% endif %}
+                {% if shade.accesories != "no-accesories" %}
+                <tr>
+                <td class="shade-property">Accesories</td><td class="shade-value">{{ shade.accesories }} 
+                {% if shade.remote-channel != "no-remote" %} <small>{{ shade.remote-channel }}</small>{% endif %}</td>
+                </tr>
+                {% endif %}
+            </table>
+          </div>
+         {% endfor %}  
+         <div class="PageNavigation">
+          {% if page.previous.url %}
+            <a class="prev" href="{{page.previous.url}}">&laquo; Previous</a>
+          {% endif %}
+          {% if page.next.url %}
+            <a class="next" href="{{page.next.url}}">Next &raquo;</a>
+          {% endif %}
+        </div>
