@@ -21,7 +21,7 @@ Slim BR White
 M2P3,Motorized Roller Shade,Kavir Flint ,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Round Black
 Elegant BR Black",Cassette 100 Round Black,50mm Aluminum Tube,Elegan Bottomrail Black,"VTi® Smarthub, VTi® Remote Control",(Remote 1 Channel 13)
 M2P3,Manual Roller Shade,Dimity  Aspen,V12 System,"V12 Q-Box Anodized
-EuroSlim BR Anodized",Q-Box Anodized,,Euro Slim Anodized,no-accesories,no-remote
+EuroSlim BR Anodized",Q-Box Anodized,32mm Aluminum Tube,Euro Slim Anodized,no-accesories,no-remote
 M2P3,Motorized Roller Shade,Otomi Ash,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Euro Medium Bracket Grey
 Flat Hem Bar Anod.",Euro Brackets Medium Grey,38mm Aluminum Tube,Hem Bar,"VTi® Smarthub, VTi® Remote Control",(Remote 1 Channel 14)
 M2P4,Motorized Neolux Shade,Neolux Serenade Brown,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat Bronze
@@ -33,7 +33,7 @@ Slim BR Satin Adod.
 Boston Side Channel Satin Anod.",Cassette 100 Flat Satin Anodized,50mm Aluminum Tube,Slim Bottomrail Satin Anodized,"VTi® Smarthub, VTi® Remote Control, Boston Side Channel Satin Anodized",(Remote 2 Channel 1)
 M2P5,Chain Operated Roller Shade,Moab,Contract Clutch,"4"" Eng. Privacy & Eco Fascia Satin Anod.
 SLIM Satin Anodized
-R2 Lateral Side Channel Satin Anod.","4"" Engineered Privacy Fascia + Eco Fascia Satin Anodized",,Slim Bottomrail Satin Anodized,R2 Side Channel Satin Anodized,no-remote
+R2 Lateral Side Channel Satin Anod.","4"" Engineered Privacy Fascia + Eco Fascia Satin Anodized",32mm Aluminum Tube,Slim Bottomrail Satin Anodized,R2 Side Channel Satin Anodized,no-remote
 M2P5,Motorized Roller Shade,Aspen FR Greige,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Eurobracket Medium White Guided
 EuroSlim White Guided",Euro Brackets Medium White Guided,38mm Aluminum Tube,Euro Slim White Guided,"VTi® Smarthub, VTi® Remote Control",(Remote 2 Channel 2)
 M2P6,Motorized Roller Shade,Toledo (Perge),VTi® Celtic Ultra Quiet Motor,"Q-Box Black
@@ -50,13 +50,13 @@ plastic weight with chain",Matrix Flat White,no-tube,Plastic Weight with Chain,n
 M3P2,Motorized Roller Shade,EcoPlanet SRC Smoke,VTi® Celtic Ultra Quiet Motor,"4"" Eng Eco & Eco Fascia Satin Anod.
 Slim BR satin anodized","4"" Engineered Privacy Fascia + Eco Fascia Satin Anodized",50mm Aluminum Tube,Slim Bottomrail Satin Anodized,"VTi® Smarthub, VTi® Remote Control",(Remote 2 Channel 6)
 M3P2,Manual Roller Shade,Sea Planet FR Pearl,V12 System,"V12 Cassette 100 Flat Black
-EuroSlim BR Black",Cassette 100 Flat Black,,Euro Slim Black,no-accesories,no-remote
+EuroSlim BR Black",Cassette 100 Flat Black,32mm Aluminum Tube,Euro Slim Black,no-accesories,no-remote
 M3P2,Motorized Roller Shade,Planet FR Black,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Eurobracket Medium Black Guided
 Classic BR Black Guided
 (Repetir Cortina)",Euro Brackets Medium Guided,38mm Aluminum Tube,Euro Slim Black,"VTi® Smarthub, VTi® Remote Control",(Remote 2 Channel 7)
 M3P4,Motorized Neolux Shade,Neolux Maui White,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat White
 Neox BR White ",Cassette 100 Flat White,50mm Aluminum Tube,Neox Bottomrail White,"VTi® Smarthub, VTi® Remote Control",(Remote 2 Channel 8)
-M3P4,Motorized Roller Shade,BlackOut,Designer Clutch,"Fascia 3"" Round","Fascia 3"" Round",,,no-accesories,no-remote
+M3P4,Motorized Roller Shade,Captiva Blackout,Designer Clutch,"Fascia 3"" Round","Fascia 3"" Round",,,no-accesories,no-remote
 M3P4,Motorized Neolux Shade,Neolux Solitude Light Beige,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Open Roller a Techo Euro Small Ivory
 Neolux BR I Ivory",Open Roller Euro Brackets Small,38mm Aluminum Tube,Neollux Bottomrail I Ivory,"VTi® Smarthub, VTi® Remote Control",(Remote 2 Channel 9)
 M3P5,Motorized Roller Shade,Xander Ivory,VTi® Celtic Ultra Quiet Motor,"Q-Box Ivory
@@ -88,10 +88,9 @@ Slim BR Satin Anod.
 Boston Side Channel S. Anod. (Falta)",Cassette 100 Fla Satin Anodized,50mm Aluminum Tube,Slim Bottomrail Satin Anodized,"VTi® Smarthub, VTi® Remote Control",(Remote 3 Channel 4)
 M4P4,Motorized Vertical Blind,Evolution Cozumel Stone,Motor For Vertical Blinds,"Matrix Round, Fascia Gris, Motor a la izquierda, Cadena de pesas gris",Matrix Round + Grey Fascia,no-tube,Grey Plastic Weights,"VTi® Smarthub, VTi® Remote Control",(Remote 3 Channel 5)
 M4P5,Wand Operated Vertical Blind,Evolution Bimini Navy,"Wand (50"")","Matrix Round, Cenefa Negra, Cadena de pesas negra",Matrix Round + Black Fascia,no-tube,Black Plastic Weights,no-accesories,no-remote
-M4P5,Motorized Roller Shade,"Captiva 
-Nuevo Color?",VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat Bronze
+M4P5,Motorized Roller Shade,Neolux,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat White
 EuroSlim BR Bronze
-California Side Channel Bronze",Cassette 100 Flat Bronze,50mm Aluminum Tube,Euro Slim Bronze,"VTi® Smarthub, VTi® Remote Control, California Side Channel Bronze",(Remote 3 Channel 6)
+California Side Channel Bronze",Cassette 100 Flat White,50mm Aluminum Tube,Neollux Bottomrail I Ivory,"VTi® Smarthub, VTi® Remote Control, California Side Channel Bronze",(Remote 3 Channel 6)
 M4P6,Motorized Cellular Shade,Solis Sheer White,VTi® Celtic DC Cord Lift Electronic Limits Motor Dual Shaft | 0.6 Nm,Motorized,Aluminum Headrail for Cellular Shades White,no-tube,Aluminum Bottom Rail - White,"VTi® Smarthub, VTi® Remote Control",(Remote 3 Channel 7)
 M4P6,Motorized Neolux Shade,Neolux Novel Navy,VTX20 Elegant Clutch Black ,"Cassette 100 Flat Black
 Supreme Invertido Black ",Cassette 100 Flat Black,,Supreme Bottomrail Black,no-accesories,no-remote
@@ -102,7 +101,7 @@ M5P1,Motorized Drapery,Decorative Night I Wood,Drapery Motor,"Drapery Motorizado
 Apertura a la izquierda",Drapery Rail,no-tube,no-bottomrail,"VTi® Smarthub, VTi® Remote Control",(Remote 3 Channel 8)
 M5P2,Manual Roller Shade,VX Screen Baru Dove,V12 System,"V12 Open Roller a techo 
 (Euro Small White)
-EuroSlim BR White",Open Roller Euro Brackers Small White,,Euro Slim White,no-accesories,no-remote
+EuroSlim BR White",Open Roller Euro Brackers Small White,32mm Aluminum Tube,Euro Slim White,no-accesories,no-remote
 M5P2,Motorized Sliding Panel,VX Screen Bryson Light Grey,Sliding Panel Motor,"Sliding panel 4 vias motorizado 
 one way, apertura a la derecha",4 Channel Sliding Pannel,no-tube,Flat Hembar,"VTi® Smarthub, VTi® Remote Control",(Remote 3 Channel 9)
 M6P1,Motorized Roller Shade,Polyscreen Vision Spice Buckwheat,VTi® Celtic Ultra Quiet Motor,"ATOS, con anclaje en bottomrail",Atos System,50mm Aluminum Tube,,"VTi® Smarthub, VTi® Remote Control",(Remote 3 Channel 10)
@@ -118,7 +117,6 @@ M6P4,Cord Operated Cellular Shade,Noite Blackout Sand,VTX Cellular Shade Clutch 
 M6P5,Motorized Roller Shade,Medium Sheer Greige,VTi® Celtic Rechargeable VTi® Celtic Rechargeable Battery Motor | 1.2Nm | 1.2Nm,"4"" Eng. Eco & Eco Fascia
 Satin Anodized
 EuroSlim BR White","4"" Engineered Eco Fascia + Eco Fascia Satin Anodized",38mm Aluminum Tube,Euro Slim White,"VTi® Smarthub, VTi® Remote Control",(Remote 3 Channel 15)
-M6P5,TBD,TBD,TBD,TBD,TBD,TBD,TBD,no-accesories,no-remote
 M6P6,Wand Operated Vertical Blind,Polyscreen Vision 550 Calico Bronze Custard,"Wand (20"")","Matrix Flat White, One Way
 apertura a la derecha
 Cenefa Blanca
