@@ -22,10 +22,15 @@
                 <td class="shade-property">Bottomrail</td><td class="shade-value">{{ shade.bottomrail }}</td>
                 </tr>
                 {% endif %}
+                {% if shade.side-channel != "no-side-channel" %}
+                <tr>
+                <td class="shade-property">Side Channel:</td><td class="shade-value">{{ shade.side-channel }}</td>
+                </tr>
+                {% endif %}
                 {% if shade.accesories != "no-accesories" %}
                 <tr>
                 <td class="shade-property">Accesories</td><td class="shade-value">{{ shade.accesories }} 
-                {% if shade.remote-channel != "no-remote" %} <small>{{ shade.remote-channel }}</small>{% endif %}</td>
+                {% if shade.remote-channel != "no-remote" %} <br><em>{{ shade.remote-channel }}</em>{% endif %}</td>
                 </tr>
                 {% endif %}
             </table>
