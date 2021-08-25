@@ -1,0 +1,124 @@
+I"�<html>
+<head>
+  <link href="/assests/panel-style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div id="gradient">
+    <div class="wrap">
+      <div class="title">
+        <h1>VERTILUX SHOWROOM</h1>
+        <h3>Module 2 Panel 3</h3>
+      </div>
+      <div class="panel">
+      
+      
+      <div class="frame-3">
+            <p class="shade-title">Motorized Roller Shade</p>
+            <table class="shade">
+                <tr>
+                <td class="shade-property">FABRIC</td><td class="shade-value">Rollux® Kavir Flint </td>
+                </tr>
+                <tr>
+                <td class="shade-property">SYSTEM</td><td class="shade-value">VTi® Celtic Ultra Quiet Motor</td>
+                </tr>
+                <tr>
+                <td class="shade-property">Headrail</td><td class="shade-value">Cassette 100 Round Black</td>
+                </tr>
+                
+                <tr>
+                <td class="shade-property">Tube</td><td class="shade-value">2" (50 mm) Aluminum Tube</td>
+                </tr>
+                
+                
+                <tr>
+                <td class="shade-property">Bottomrail</td><td class="shade-value">Elegant Black</td>
+                </tr>
+                
+                
+                
+                <tr>
+                <td class="shade-property">Accesories</td><td class="shade-value">VTi® Smart Hub <br /> VTi® Celtic Neo RF Emitter 
+                 <br /><em>Remote 1, Channel 13</em></td>
+                </tr>
+                
+            </table>
+          </div>
+         
+      <div class="frame-3">
+            <p class="shade-title">Manual Roller Shade</p>
+            <table class="shade">
+                <tr>
+                <td class="shade-property">FABRIC</td><td class="shade-value">Rollux® Dimity Aspen</td>
+                </tr>
+                <tr>
+                <td class="shade-property">SYSTEM</td><td class="shade-value">V12 System</td>
+                </tr>
+                <tr>
+                <td class="shade-property">Headrail</td><td class="shade-value">Q-Box Anodized</td>
+                </tr>
+                
+                <tr>
+                <td class="shade-property">Tube</td><td class="shade-value">1 ¼" (32 mm) Aluminum Tube</td>
+                </tr>
+                
+                
+                <tr>
+                <td class="shade-property">Bottomrail</td><td class="shade-value">Euro Slim Anodized</td>
+                </tr>
+                
+                
+                
+            </table>
+          </div>
+         
+      <div class="frame-3">
+            <p class="shade-title">Motorized Roller Shade</p>
+            <table class="shade">
+                <tr>
+                <td class="shade-property">FABRIC</td><td class="shade-value">Rollux® Otomi Ash</td>
+                </tr>
+                <tr>
+                <td class="shade-property">SYSTEM</td><td class="shade-value">VTi® Celtic Rechargeable Battery Motor | 1.2Nm</td>
+                </tr>
+                <tr>
+                <td class="shade-property">Headrail</td><td class="shade-value">Medium Euro Brackets Grey</td>
+                </tr>
+                
+                <tr>
+                <td class="shade-property">Tube</td><td class="shade-value">1 ½" (38 mm) Aluminum Tube</td>
+                </tr>
+                
+                
+                <tr>
+                <td class="shade-property">Bottomrail</td><td class="shade-value">Flat Hem Bar</td>
+                </tr>
+                
+                
+                
+                <tr>
+                <td class="shade-property">Accesories</td><td class="shade-value">VTi® Smart Hub <br /> VTi® Celtic Neo RF Emitter 
+                 <br /><em>Remote 1, Channel 14</em></td>
+                </tr>
+                
+            </table>
+          </div>
+           
+         <div class="PageNavigation">
+          
+            <a class="prev" href="/module-2-panel-2">&laquo; Previous</a>
+          
+          
+            <a class="next" href="/module-2-panel-4">Next &raquo;</a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+  <script src="/assests/panel-script.js" type="text/javascript"></script>
+</body>
+
+</html>
+:ET
