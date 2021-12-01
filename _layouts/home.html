@@ -3,35 +3,56 @@
 <head>
   <link href="/assests/home-style.css" rel="stylesheet" type="text/css" />
 </head>
+<script>
+  function process() {
+    var url = "/module-" + document.getElementById("module").value + "-panel-" + document.getElementById("panel").value;
+    location.href = url;
+    return false;
+  }
+</script>
 
 <body>
-  <!--<div id="gradient">
-    <div class="wrap">
-      <div class="title">
-        <h1>VERTILUX SHOWROOM</h1>
-        <h3>All Modules:</h3>
-      </div>
-      <div class="home-div">
-        <ul class="home-ul">
-        {% assign modules = site.posts | sort: "title" %}
-        {% for module in modules %}
-        <li class="home-li"><a class="home-a" href="{{ module.url }}">{{ module.title }}</a></li>
-        {% endfor %}
-      </ul>
-      </div>
-    </div>
-  </div>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-  <script src="/assests/panel-script.js" type="text/javascript"></script>-->
   <div class="home-div">
     <h2 class="home-h2">Vertilux Showroom</h2>
-    <ul>
+    <!--<p>Schedule a visit to the Vertilux Showroom:</p>
+    <form>
+      <label for="name">Your Name:</label>
+      <input type="text" id="name" name="name"><br>
+      <label for="customer-id">Vertulux Customer ID:</label>
+      <input type="text" id="customer-id" name="customer-id"><br>
+      <label for="guests">Number of Guests:</label>
+      <input type="number" id="guests" value="1"><br>
+      <label for="visit-date">Choose a date:</label>
+      <input type="date" id="visit-date" name="visit-date" value="2021-08-25" min="2021-01-01" max="2022-12-31">
+    </form>
+
+
+    <hr>-->
+    <p>View a Showroom Panel:</p>
+    <form onSubmit="return process();">
+      Module: <select style="width:35px;height: 35px;" id="module" name="module">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+      </select> Panel: <select style="width:35px;height: 35px;" id="panel" name="panel">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+      </select>
+      <input type="submit" value="Go">
+    </form>
+    <!--<ul>
       {% assign modules = site.posts | sort: "title" %}
       {% for module in modules %}
       <li class="home-li"><a class="home-a" href="{{ module.url }}">{{ module.title }}</a></li>
       {% endfor %}
-    </ul>
+    </ul>-->
   </div>
 </body>
 

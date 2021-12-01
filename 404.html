@@ -1,24 +1,22 @@
 ---
-layout: default
+layout: home
 ---
+<html>
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<head>
+  <link href="/assests/home-style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <div class="home-div">
+    <h2 class="home-h2">Vertilux Showroom</h2>
+    <ul>
+      <li>Sorry, That panel does not exist. Please pick one from below:</li>
+      {% assign modules = site.posts | sort: "title" %}
+      {% for module in modules %}
+      <li class="home-li"><a class="home-a" href="{{ module.url }}">{{ module.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</body>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+</html>
