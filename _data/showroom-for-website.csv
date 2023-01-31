@@ -1,0 +1,125 @@
+module-id,name,fabric,system,all components,headrail,tube,bottomrail,side-channel,accesories,remote-channel
+M1P1,Motorized Roller Shade,Rollux® Giants Onix ,VTi® Celtic Ultra Quiet Motor,Cassette 100 Flat y EuroSlim Satin Anodized,Cassette 100 Flat Satin Anodized,"2"" (50 mm) Aluminum Tube",Euro Slim Satin Anodized,no-side-channel,VTi® Smart Hub <br> VTi® Wave RF Emitter,"Remote 1, Channel 6"
+M1P1,Motorized Roller Shade,Rollux® Dakar Blackout Slate,VTi® Celtic Ultra Quiet Motor,Cassette 100 Flat y EuroSlim Negro,Cassette 100 Flat Black,"2"" (50 mm) Aluminum Tube",Euro Slim Black,no-side-channel,VTi® Smart Hub <br> VTi® Wave RF Emitter,"Remote 1, Channel 5"
+M1P2,Motorized Neolux Shade,Neolux® Dinasty Charcoal,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat y NEOX BR Bronze
+(Cambiar tapas BR NEOX)",Cassette 100 Flat Bronze,"2"" (50 mm) Aluminum Tube",Neolux® Neox Bronze,no-side-channel,VTi® Smart Hub <br> VTi® Wave RF Emitter,"Remote 1, Channel 4"
+M1P2,Motorized Roller Shade,Polyscreen® Vision 310 Calico White Chocolate,VTi® Celtic Ultra Quiet Motor,Cassette 100 Round Wrapped y DECO Wrapped (Ivory),Cassette 100 Round Wrapped,"2"" (50 mm) Aluminum Tube",Deco Wrapped,no-side-channel,VTi® Smart Hub <br> VTi® Wave RF Emitter,"Remote 1, Channel 3"
+M1P3,Motorized Roller Shade,Rollux® Mod Nacar ,VTi® Celtic Ultra Quiet Motor,Cassette 100 Round Wrapped y DECO BR Wrapped (Ivory),Cassette 100 Round Wrapped,"2"" (50 mm) Aluminum Tube",Deco Wrapped,no-side-channel,VTi® Smart Hub <br> VTi® Wave RF Emitter,"Remote 1, Channel 2"
+M1P3,Motorized Roller Shade,Rollux® Touareg Stone,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Round, Classic BR Ivory",Cassette 100 Round Ivory,"2"" (50 mm) Aluminum Tube",Classic Ivory,no-side-channel,VTi® Smart Hub <br> VTi® Wave RF Emitter,"Remote 1, Channel 1"
+M2P1,Motorized Dual Roller Shade,"Front: Rollux® Density MT Petrol <br>
+Back: Polyscreen® Vision DC Spicy Orange",VTi® Celtic Ultra Quiet Motor,"6"" Fascia White
+Flat Weight Anodized in Pocket","6"" Engineered Fascia White","2"" (50 mm) Aluminum Tube",Flat Hem Bar,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 13+14"
+M2P1,Motorized Dual Roller Shade,"Front: Rollux® Density MT Ochre  <br>
+Back: Polyscreen® Vision 310 Silken Golden Ebony",VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Euro Dual Small Bracket Black
+20mm Aluminum BR Tube (Tapas Negras)",Small Euro Dual Bracket Black,"1 ½"" (38 mm) Aluminum Tube",20mm Aluminum Tube,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 11+12"
+M2P2,Motorized Roller Shade,Rollux® Carolina White,VTi® Celtic Ultra Quiet Motor,"4"" Eng Eco & Eco Fascia White 
+Reverse Roller
+EuroSlim White","4"" Engineered Eco Fascia + 4"" Eco Fascia White","2"" (50 mm) Aluminum Tube",Euro Slim White,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 10"
+M2P2,Motorized Roller Shade,Rollux® Formentera Silver,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Euro Medium Bracket White
+Slim BR White
+(Cambiar a Euro Small)",Medium Euro Brackets White,"1 ½"" (38 mm) Aluminum Tube",Slim White,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 9"
+M2P3,Motorized Roller Shade,Rollux® Kavir Flint ,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Round Black
+Elegant BR Black",Cassette 100 Round Black,"2"" (50 mm) Aluminum Tube",Elegant Black,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 8"
+M2P3,Cordless Roller Shade,Rollux® Dimity Aspen,V12 System,"V12 Q-Box Anodized
+EuroSlim BR Anodized",Q-Box Anodized,"1 ¼"" (32 mm) Aluminum Tube",Euro Slim Anodized,no-side-channel,Clear Plastic Handle,no-remote
+M2P3,Motorized Roller Shade,Rollux® Otomi Ash,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Euro Medium Bracket Grey
+Flat Hem Bar Anod.",Medium Euro Brackets Grey,"1 ½"" (38 mm) Aluminum Tube",Flat Hem Bar,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 7"
+M2P4,Motorized Neolux Shade,Neolux® Serenade Brown,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat Bronze
+Supreme BR Invertido Bronze",Cassette 100 Flat Bronze,"2"" (50 mm) Aluminum Tube",Neolux® Supreme Bronze,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 6"
+M2P4,Motorized Roller Shade,Rollux® Tokio Dim Out Beige,VTi® Celtic Ultra Quiet Motor,"3"" Fascia Flat Ivory
+Classic BR Ivory","3"" Fascia Flat Ivory","2"" (50 mm) Aluminum Tube",Classic Ivory,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 5"
+M2P5,Motorized Roller Shade,Rollux® Cabos,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat Satin Anod.
+Slim BR Satin Adod.
+Boston Side Channel Satin Anod.",Cassette 100 Flat Satin Anodized,"2"" (50 mm) Aluminum Tube",Slim Satin Anodized,Boston Blackout Side Channel <br>Satin Anodized,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 4"
+M2P5,Chain Operated Roller Shade,Rollux® Rimini Dark Grey,Vertilux Contract Clutch,"4"" Eng. Privacy & Eco Fascia Satin Anod.
+SLIM Satin Anodized
+R2 Lateral Side Channel Satin Anod.","4"" Engineered Privacy Fascia + 4"" Eco Fascia White","1 ¼"" (32 mm) Aluminum Tube",Deco White,no-side-channel,no-accesories,no-remote
+M2P5,Motorized Roller Shade,Rollux® Aspen FR Greige,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Eurobracket Medium White Guided
+EuroSlim White Guided",Medium Euro Brackets White Guided,"1 ½"" (38 mm) Aluminum Tube",Euro Slim with Guided End Caps White,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 3"
+M2P6,Motorized Roller Shade,Rollux® Toledo Marqueda,VTi® Celtic Ultra Quiet Motor,"Q-Box Black
+EuroSlim BR Black 
+Calif. Side Channel Black (Falta)",Q-Box Black,"2"" (50 mm) Aluminum Tube",Euro Slim Black,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 2"
+M2P6,Motorized Roller Shade,Rollux® Velvet,VTi® Celtic Ultra Quiet Motor,"4"" Eng. Privacy & Eco Fascia Satin Anod.
+DECO BR Satin Anodized
+Boston Side Channel Satin Anod.","4"" Engineered Privacy Fascia + 4"" Eco Fascia Satin Anodized","2"" (50 mm) Aluminum Tube",Deco Satin Anodized,Boston Blackout Side Channel <br> Satin Anodized,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 2, Channel 1"
+M3P1,Motorized Roller Shade,Rollux® Dune Coffee,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Eurobracket Medium Grey Guided
+EuroSlim BR Grey Guided",Medium Euro Brackets Grey Guided,"1 ½"" (38 mm) Aluminum Tube",Classic with Guided End Caps Grey,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 10"
+M3P1,Wand Operated Vertical Blind,Evolution® Itaca Burn Henna,Matrix Pantographic System,"Matrix Flat White, One Way
+apertura a la derecha
+plastic weight with chain",Matrix Flat White,no-tube,"3 ½"" Plastic Louver Weight White",no-side-channel,2' Wand White,no-remote
+M3P2,Motorized Roller Shade,Rollux® EcoPlanet SRC Smoke,VTi® Celtic Ultra Quiet Motor,"4"" Eng Eco & Eco Fascia Satin Anod.
+Slim BR satin anodized","4"" Engineered Privacy Fascia + 4"" Eco Fascia Satin Anodized","2"" (50 mm) Aluminum Tube",Slim Satin Anodized,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 9"
+M3P2,Cordless Roller Shade,Rollux® Sea Planet FR Pearl,V12 System,"V12 Cassette 100 Flat Black
+EuroSlim BR Black",Cassette 100 Flat Black,"1 ¼"" (32 mm) Aluminum Tube",Euro Slim Black,no-side-channel,Clear Plastic Handle,no-remote
+M3P2,Motorized Roller Shade,Rollux® Planet FR Black,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Eurobracket Medium Black Guided
+Classic BR Black Guided
+(Repetir Cortina)",Medium Euro Brackets Guided,"1 ½"" (38 mm) Aluminum Tube",Classic with Guided End Caps Black,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 8"
+M3P4,Motorized Neolux Shade,Neolux® Maui White,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat White
+Neox BR White ",VTX Box White,"2"" (50 mm) Aluminum Tube",Neolux® Neox White,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 7"
+M3P4,Chain Operated Roller Shade,Rollux® Captiva Blackout White,VTX® 20 Designer Clutch,"""Fascia 3"""" Round Satin Anodized
+Elegant BR Satin Anodized
+California Side Channel Satin Anodized""","3"" Fascia Round Satin Anodized","1 ½"" (38 mm) Aluminum Tube",Elegant Sating Anodized,no-side-channel,no-accesories,no-remote
+M3P4,Motorized Neolux Shade,Neolux® Solitude Dim Out Light Beige,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Open Roller a Techo Euro Small Ivory
+Neolux BR I Ivory",Open Roller Small Euro Brackets Ivory,"1 ½"" (38 mm) Aluminum Tube",Neolux® I Ivory,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 6"
+M3P5,Motorized Roller Shade,Rollux® Xander Ivory,VTi® Celtic Ultra Quiet Motor,"Q-Box Ivory
+EuroSlim BR Ivory",Q-Box Ivory ,"2"" (50 mm) Aluminum Tube",Euro Slim Ivory,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 5"
+M3P5,Motorized Neolux Shade,Neolux® Bio Venus Khaki,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat White
+Supreme BR White",Cassette 100 Flat White,"2"" (50 mm) Aluminum Tube",Neolux® Supreme White,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 4"
+M3P6,Motorized Dual Roller Shade,"Front: Sheerlux Adagio Ivory  <br>
+Back: Rollux® Sunset Blackout Ivory",VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"6"" Fascia White
+EuroSlim White
+Manhattan Side Channel White","6"" Engineered Fascia White","1 ½"" (38 mm) Aluminum Tube",Euro Slim White,Manhattan Side Guide White,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 2+3"
+M3P6,Motorized Neolux Shade,Neolux® Sundown Dim Out Khaki,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat Bronze
+Supreme BR Bronze 
+(Cambiar tapas BR)",Cassette 100 Flat Bronze,"2"" (50 mm) Aluminum Tube",Neolux® Neox Bronze,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 3, Channel 1"
+M4P1,Motorized Roller Shade,VertiShield 95% Desert Grain,VTi® Celtic Ultra Quiet Motor,"ARION Black sin Guias
+XL Bottom Rail
+",ARION Plus White,"2 1/2"" (63 mm) Aluminum Tube",Double Channel Bottom Rail,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 4, Channel 9"
+M4P1,Motorized Roller Shade,Rollux® Sunset Blackout Latte,VTi® Celtic Ultra Quiet Motor,Z-Box Black,Z-Box Black,"2"" (50 mm) Aluminum Tube",XL Black,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 4, Channel 8"
+M4P2,Motorized Roller Shade,Rollux® Sense Blackout Fog,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Round Bronze
+DECO BR Bronze 
+Boston Side Channel Bronze",Cassette 100 Round Bronze,"2"" (50 mm) Aluminum Tube",Deco Bronze,Boston Blackout Side Channel Bronze,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 4, Channel 7"
+M4P2,Wand Operated Sliding Pannel,Rollux® Lanair Blackout Light Grey,2' Wand ,"Sliding panel 3 vias manual con baston 
+one way, apertura a la derecha",Sliding Panel 3 Channels Aluminum Track White,no-tube,Flat Hem Bar,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,no-remote
+M4P3,Motorized Dual Roller Shade,"Front: Rollux® Dakar Travertine 
+Back: Rollux® Dakar Blackout Travertine",VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Euro Dual Small Bracket Black
+Contemporary Bronze",Small Dual Euro Brackers Black,"1 ½"" (38 mm) Aluminum Tube",Contemporary Bronze,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 4, Channel 5+6"
+M4P3,Motorized Roller Shade,Rollux® Daku Blackout Stone,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat Satin Anod.
+Slim BR Satin Anod.
+Boston Side Channel S. Anod. (Falta)",Cassette 100 Flat Satin Anodized,"2"" (50 mm) Aluminum Tube",Slim Satin Anodized,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 4, Channel 4"
+M4P4,Motorized Dunes Shade,Dunes Aurora White,VTi® Celtic Motor for Vertical Blinds,"Matrix Round, Fascia Gris, Motor a la izquierda, Cadena de pesas gris",Matrix Ellipse White,no-tube,no-bottomrail,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 4, Channel 3"
+M4P5,Wand Operated Luminux Shade,Luminux White,Matrix Pantographic System,"Matrix Round, Cenefa Negra, Cadena de pesas negra",Matrix Ellipse White,no-tube,no-bottomrail,no-side-channel,2' Wand White,no-remote
+M4P5,Motorized Roller Shade,Neolux® Koro White,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat White
+EuroSlim BR Bronze
+California Side Channel Bronze",Cassette 100 Flat White,"2"" (50 mm) Aluminum Tube",Neolux® I White,Manhattan Side Guide White,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 4, Channel 2"
+M4P6,Motorized Cellular Shade,Solis Cellular Sheer White,VTi® Celtic DC Cord Lift Electronic Limits Motor Dual Shaft | 0.6 Nm,Motorized,Aluminum Headrail for Cellular Shades White,no-tube,Aluminum Bottomrail White,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 4, Channel 1"
+M4P6,Motorized Neolux Shade,Neolux® Novel Navy,VTX® 20 Elegant Clutch Black ,"Cassette 100 Flat Black
+Supreme Invertido Black ",Cassette 100 Flat Black,"1 ½"" (38 mm) Aluminum Tube",Neolux® Supreme Black,no-side-channel,Chain Safety Device Black,no-remote
+M5P1,Day & Night Cellular Shade,"Top: Noite Cellular Blackout Ivory  <br>
+Bottom: Solis Cellular Sheer Cream",VTX Cellular Shade Cordless System,"Cellular Dia y Noche Muelle
+Handles a ambos lados",Aluminum Headrail for Cellular Shades White,no-tube,Aluminum Bottomrail White,no-side-channel,Clear Plastic Handle,no-remote
+M5P1,Motorized Drapery,Decorative Night I Wood,VTi® Celtic Drapery Motor,"Drapery Motorizado One Way
+Apertura a la izquierda",Drapery Rail White,no-tube,no-bottomrail,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Wave RF Emitter,"Remote 5, Channel 2"
+M5P2,Cordless Roller Shade,VX Screen Baru Dove,V12 System,"V12 Open Roller a techo 
+(Euro Small White)
+EuroSlim BR White",Open Roller Small Euro Brackets White,"1 ¼"" (32 mm) Aluminum Tube",Euro Slim White,no-side-channel,Clear Plastic Handle,no-remote
+M5P2,Motorized Sliding Panel,VX Screen Bryson Light Grey,VTi® Celtic Motor for Sliding Panels,"Sliding panel 4 vias motorizado 
+one way, apertura a la derecha",Sliding Panel 4 Channels Aluminum Track White,no-tube,Flat Hem Bar,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Wave RF Emitter,"Remote 5, Channel 1"
+M6P1,Crank Operated Balcony Shade,Polyscreen® Vision Spice Buckwheat,Atos Balcony System,"ATOS, con anclaje en bottomrail / crank operated",Atos,"2 ¾"" (70 mm) Aluminum Tube",PU5 White,no-side-channel,Crank,no-remote
+M6P1,Motorized Dropshade,Sunlux® Plain Burlap,VTi® Celtic Motor with Manual Override,"ATOS, guiado varilla cable, manivela / drop shade",Atos Drop Shade System,"2 ¾"" (70 mm) Aluminum Tube",PU5 White,no-side-channel,Crank <br> VTi® Smart Hub <br> VTi® Celtic Neo RF Emitter,"Remote 6, Channel 5"
+M6P2,Chain Operated Roller Shade,VX Screen Nature 3% Linen,VTX® Round Clutch White,"Eurobracket Medium Guided White
+20mm BR tube, Tapas guiadas",Medium Euro Brackets White Guided,"1 ½"" (38 mm) Aluminum Tube","¾"" (20mm) Bottomrail Tube Guided",no-side-channel,Clear Chain Safety Device,no-remote
+M6P2,Motorized Neolux Shade,Neolux® Sheer Vision FR White Brown,VTi® Celtic Ultra Quiet Motor,"Cassette 100 Flat Bronze
+BR Supreme Bronze",Cassette 100 Flat Bronze,"2"" (50 mm) Aluminum Tube",Neolux® Supreme Bronze,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Wave RF Emitter,"Remote 6, Channel 4"
+M6P4,Motorized Dual Roller Shade,"Front: Rollux® Rows White <br>
+Back: Rollux® Silk Romance Brown",VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"Euro Dual Small Bracket White
+DECO BR White ",Small Dual Euro Brackers White,"1 ½"" (38 mm) Aluminum Tube",Deco White,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Wave RF Emitter,"Remote 6, Channel 2+3"
+M6P4,Cord Operated Cellular Shade,Romance Cellular White,VTX Cellular Shade Clutch System,Cellular Clutch/Cordon,Aluminum Headrail for Cellular Shades White,no-tube,Aluminum Bottomrail White,no-side-channel,no-accesories,no-remote
+M6P5,Motorized Horizontal Shade,Vienna Medium Sheer White,VTi® Celtic Rechargeable Battery Motor | 1.2Nm,"4"" Eng. Eco & Eco Fascia
+Satin Anodized
+EuroSlim BR White","4"" Engineered Eco Fascia + 4"" Eco Fascia Satin Anodized","1  ¾"" (45 mm) Aluminum Tube",Horizontal Shade Bottom Rail,no-side-channel,VTi® Smart Hub <br> VTi® Celtic Wave RF Emitter,"Remote 6, Channel 1"
+M6P6,Wand Operated Vertical Blind,Polyscreen Vision 550 Calico Bronze Custard,Matrix Pantographic System,"Matrix Flat White, One Way
+apertura a la derecha
+Cenefa Blanca
+plastic weight with chain",Matrix Flat White with White Fascia,no-tube,"3 ½"" Plastic Louver Weight White",no-side-channel,"20"" Wand White",no-remote
+M6P6,Manual Dunes Shade,Dunes Plain Grey,Clutch,Matrix Ellipse White,Matrix Ellipse White with White Fascia,no-tube,no-bottomrail,no-side-channel,no-accesories,no-remote
